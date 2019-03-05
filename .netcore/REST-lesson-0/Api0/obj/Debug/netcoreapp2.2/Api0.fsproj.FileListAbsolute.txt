@@ -1,0 +1,10 @@
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\bin\Debug\netcoreapp2.2\Api0.deps.json
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\bin\Debug\netcoreapp2.2\Api0.runtimeconfig.json
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\bin\Debug\netcoreapp2.2\Api0.runtimeconfig.dev.json
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\bin\Debug\netcoreapp2.2\Api0.dll
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\bin\Debug\netcoreapp2.2\Api0.pdb
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\obj\Debug\netcoreapp2.2\Api0.fsprojAssemblyReference.cache
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\obj\Debug\netcoreapp2.2\Api0.AssemblyInfoInputs.cache
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\obj\Debug\netcoreapp2.2\Api0.AssemblyInfo.fs
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\obj\Debug\netcoreapp2.2\Api0.dll
+D:\dev\tcooper8\lessons\.netcore\REST-lesson-0\Api0\obj\Debug\netcoreapp2.2\Api0.pdb

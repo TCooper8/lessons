@@ -1,0 +1,18 @@
+version: '3'
+services:
+  db:
+    image: postgres:9.6.6
+
+  api:
+    build:
+      context: Api0
+    depends_on:
+      - db
+    links:
+      - db:db
+    environment:
+      DATABASE_URL: postgres://postgres:postgres@db:5432/postgres?ssl-mode=disable
+      PORT: 80
+
+    ports:
+      - 8080:80

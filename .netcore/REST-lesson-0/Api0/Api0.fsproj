@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Util.fs" />
+    <Compile Include="QueryBuilder.fs" />
+    <Compile Include="Db.fs" />
+    <Compile Include="models/ProfileModel.fs" />
+    <Compile Include="data/ProfileData.fs" />
+    <Compile Include="controllers/Controllers.fs" />
+    <Compile Include="controllers/ProfileController.fs" />
+    <Compile Include="ToTest.fs" />
+    <Compile Include="Auth.fs" />
+    <Compile Include="Migrations.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Evolve" Version="2.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Npgsql" Version="4.0.5" />
+    <PackageReference Include="Suave" Version="2.5.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.4.0" />
+  </ItemGroup>
+
+</Project>
